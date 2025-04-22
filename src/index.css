@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #ecf8f8;
+}
+
+.app h1 {
+  text-align: center;
+}
+
+.category {
+  margin: 20px 0;
+  padding: 10px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.widget-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.widget {
+  background: #e3f2fd;
+  padding: 10px;
+  border-radius: 6px;
+  width: 200px;
+  position: relative;
+}
+
+.widget-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.add-widget-form input {
+  margin-right: 8px;
+}
+
+.search-widget {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.search-widget input {
+  width: 300px;
+  padding: 5px;
+}
