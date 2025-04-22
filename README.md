@@ -1,7 +1,7 @@
 
-# CNAPP Dashboard with Vite
+# CNAPP Dashboard 
 
-This project is a dynamic CNAPP dashboard built with **React** and styled with **Bootstrap**. The dashboard includes features like adding widgets, dynamic widget visibility, search functionality, and categorization of widgets. It utilizes **Vite** for faster development and build.
+This project is a dynamic CNAPP dashboard built with **React**, **JavaScript** and styled with **Bootstrap**. The dashboard includes features like adding widgets, dynamic widget visibility, search functionality, and categorization of widgets. It utilizes **Vite** for faster development and build.
 
 ## Features
 
@@ -98,7 +98,7 @@ npm install -g yarn
    First, clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/cnapp-dashboard.git
+   git clone https://github.com/Nikhil-2002/CNAPP_dashboard.git
    cd cnapp-dashboard
    ```
 
@@ -176,23 +176,5 @@ Here's a breakdown of the key files and directories in the project:
 
 ---
 
-## Deployment
 
-If you'd like to deploy the app to a hosting service (such as Netlify, Vercel, or GitHub Pages), you can follow these steps after building the project:
 
-1. **Build the app** (see the "Building for Production" section).
-2. Deploy the contents of the `dist` folder to your chosen hosting provider.
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## Additional Resources
-
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Vite Documentation](https://vitejs.dev/)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
